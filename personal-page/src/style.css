@@ -1,0 +1,42 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background: FloralWhite;
+}
+
+img {
+  min-height: 100px;
+  width: 100%;
+}
+
+h1 { 
+font-size: 40px;
+text-align: center;
+color: Fuchsia;
+}
+
+
+nav {
+  font-size: 10px;
+  
+}
+
+main {
+  font-size: 20px;
+  font-family: Serif;
+  color: black;
+}
+
+
+
+
+
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+
+
